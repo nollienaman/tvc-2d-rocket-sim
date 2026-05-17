@@ -10,12 +10,12 @@ Features
 4. Random wind disturbance injection for disturbance rejection testing
 5. Adjustable gravity/thrust conditions
 6. Real-time telemetry dashboard:
-   -rocket angle θ
-   -angular velocity ω
-   -gimbal angle δ
+-rocket angle θ
+-angular velocity ω
+-gimbal angle δ
 7. Modular flight-dynamics-model (FDM) architecture:
-   -dynamics
-   -controller
-   -actuator
-   -environment
-   -visualization
+-dynamics
+-controller
+-actuator
+-environment
+-visualization
